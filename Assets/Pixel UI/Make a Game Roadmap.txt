@@ -1,0 +1,20 @@
+<size=32>2019 Make a Game Roadmap</size>
+
+January 2019 - v1.2 Experience Table, EXP Bars, HP Bars, Energy Bars, Magic Bars
+February 2019 - v1.3 Visual Game Clock & Game GUI Launch
+March 2019 - v1.4 Saving, Items & Inventory, Farming, Foraging, Mining, Logging
+April 2019 - v1.5 Crafting
+May 2019 - v1.6 Shopkeepers, Relationships, Ranching, Gifting
+June 2019 - v1.7 Events
+July 2019 - v1.8 Collections
+August 2019 - *User Vote*
+September 2019 - *User Vote*
+October 2019 - *User Vote*
+November 2019 - *User Vote*
+December 2019 - *User Vote*
+
+Starting in August new features to the 2019 'Make a Game' project will be added
+based on a vote.  Join our forums on July 1, 2019 and start making suggestions
+in the appropriate section.  The suggestions with the most favor will be added to the
+voting poll which will launch the last week of July 2019 and the highest voted feature
+will be added in August 2019.  This process will repeat monthly until the end of the year!

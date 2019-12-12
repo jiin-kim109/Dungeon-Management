@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5172c18ea7c03804c9f598d9f917dbcf, type: 3}
+  m_Name: 14.B Living Armor
+  m_EditorClassIdentifier: 
+  id: 14
+  sprite: {fileID: 21300000, guid: 78ddd41c33895e445a58e83054640fbe, type: 3}
+  grade: 3
+  isFloating: 1
+  floating_Offset_y: -0.45
+  damage: 13
+  hitCount: 1
+  spellName: Cutting
+  spell_offset_x: 0
+  spell_offset_y: 0

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Heroes
+  - Monster
+  - FloorTouch
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Heroes
+  - DungeonObjects
+  - Traps&Curses
+  - Monsters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1206365521
+    locked: 0
+  - name: DungeonBehind
+    uniqueID: 1291863353
+    locked: 0
+  - name: Objects
+    uniqueID: 3894401703
+    locked: 0
+  - name: Effects
+    uniqueID: 2496259051
+    locked: 0
+  - name: DungeonFront
+    uniqueID: 1277129947
+    locked: 0
+  - name: PlayerAttack
+    uniqueID: 4245193701
+    locked: 0
+  - name: ShadowFx
+    uniqueID: 5237059
+    locked: 0

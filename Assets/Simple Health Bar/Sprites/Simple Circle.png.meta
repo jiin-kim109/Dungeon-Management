@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 45846998aec4d224a95db211f256581f
+timeCreated: 1518080114
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Base
+    21300002: Fill
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 4
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 104}
+        - {x: -104, y: 66}
+        - {x: -104, y: -62}
+        - {x: -69, y: -104}
+        - {x: 59, y: -104}
+        - {x: 104, y: -87}
+        - {x: 104, y: 84}
+        - {x: 65, y: 104}
+      - - {x: -39, y: -60}
+        - {x: -46, y: 55}
+        - {x: 24, y: 66}
+        - {x: 71, y: -6}
+        - {x: 46, y: -55}
+    - name: Fill
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 102}
+        - {x: -51, y: 102}
+        - {x: -102, y: 66}
+        - {x: -102, y: -58}
+        - {x: -61, y: -102}
+        - {x: 48, y: -102}
+        - {x: 97, y: -55}
+        - {x: 102, y: -46}
+        - {x: 102, y: 67}
+      - - {x: -75, y: 8}
+        - {x: 8, y: 75}
+        - {x: 75, y: -8}
+        - {x: -8, y: -75}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

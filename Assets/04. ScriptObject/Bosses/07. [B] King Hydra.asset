@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de141884428cfc346b4d6dacc68e31c7, type: 3}
+  m_Name: 07. [B] King Hydra
+  m_EditorClassIdentifier: 
+  id: 07
+  sprite: {fileID: 21300000, guid: b64227fc13653b542a976c4dd3148162, type: 3}
+  hp: 380
+  damage: 40
+  spellName: bite
+  spell_offset_x: 0
+  spell_offset_y: 0
+  damageRateToSpell: 70
+  spellCooltime: 2
+  damageRadiusScale: 1

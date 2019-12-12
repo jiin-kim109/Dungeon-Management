@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de141884428cfc346b4d6dacc68e31c7, type: 3}
+  m_Name: 10. [C] Chief Angel
+  m_EditorClassIdentifier: 
+  id: 10
+  sprite: {fileID: 21300000, guid: 7bca5884bf9eb474f87ae302d40257da, type: 3}
+  hp: 335
+  damage: 35
+  spellName: lightning
+  spell_offset_x: 0
+  spell_offset_y: 0.5
+  damageRateToSpell: 45
+  spellCooltime: 1.5
+  damageRadiusScale: 1

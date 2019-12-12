@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5172c18ea7c03804c9f598d9f917dbcf, type: 3}
+  m_Name: 26.U Black Dragon Head
+  m_EditorClassIdentifier: 
+  id: 26
+  sprite: {fileID: 21300000, guid: ca8c6eca4d954b14f8540c2c6d301fea, type: 3}
+  grade: 6
+  isFloating: 1
+  floating_Offset_y: -0.45
+  damage: 43
+  hitCount: 3
+  spellName: UltimateDark
+  spell_offset_x: 0
+  spell_offset_y: 0

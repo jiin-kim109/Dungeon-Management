@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de141884428cfc346b4d6dacc68e31c7, type: 3}
+  m_Name: 03. [S] Ancient Dragon
+  m_EditorClassIdentifier: 
+  id: 03
+  sprite: {fileID: 21300000, guid: 1b378e96121010d45a63ed56dc4e9439, type: 3}
+  hp: 430
+  damage: 52
+  spellName: echo
+  spell_offset_x: 0
+  spell_offset_y: 0.1
+  damageRateToSpell: 55
+  spellCooltime: 1.2
+  damageRadiusScale: 1.5

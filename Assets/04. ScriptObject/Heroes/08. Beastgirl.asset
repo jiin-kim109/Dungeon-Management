@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 08. Beastgirl
+  m_EditorClassIdentifier: 
+  id: 08
+  hp: 45
+  damage: 25
+  moveSpeed: 1.35
+  goldGivenMult: 3.2
+  sprite: {fileID: 21300008, guid: 36b29b609152fa840bd7f16dd2cbfc46, type: 3}
+  sprite_hit: {fileID: 21300006, guid: ba188865527db834da2b539d173c7630, type: 3}
+  sprite_dead: {fileID: 21300014, guid: 86abb107db6c0e6449dbd7e9a53ef551, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 11. Thief Leader
+  m_EditorClassIdentifier: 
+  id: 11
+  hp: 70
+  damage: 50
+  moveSpeed: 1.4
+  goldGivenMult: 4
+  sprite: {fileID: 21300008, guid: 649d43135138a444fa381f1a13764c83, type: 3}
+  sprite_hit: {fileID: 21300008, guid: 3aff0fcde1336b3458e2ea672c16b7e1, type: 3}
+  sprite_dead: {fileID: 21300014, guid: 73d5dffc02dae3b469d3169d8c06fdaa, type: 3}

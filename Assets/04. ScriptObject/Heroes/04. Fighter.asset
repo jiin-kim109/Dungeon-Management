@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 04. Fighter
+  m_EditorClassIdentifier: 
+  id: 04
+  hp: 35
+  damage: 18
+  moveSpeed: 1.45
+  goldGivenMult: 2
+  sprite: {fileID: 21300008, guid: 1aa4eda30a71a3b4bbdcf3abb01f17a1, type: 3}
+  sprite_hit: {fileID: 21300008, guid: ad20c9affa4a23940a649c8f0fb775f1, type: 3}
+  sprite_dead: {fileID: 21300014, guid: 1ed1e62afa6248045bd50cdca346ce0e, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 07. Mage
+  m_EditorClassIdentifier: 
+  id: 07
+  hp: 30
+  damage: 25
+  moveSpeed: 1.45
+  goldGivenMult: 1.55
+  sprite: {fileID: 21300008, guid: 84913fd1ab734a94fbd078643e09d4f9, type: 3}
+  sprite_hit: {fileID: 21300008, guid: fb4bfc62ea629e344825d49297c8ad48, type: 3}
+  sprite_dead: {fileID: 21300014, guid: d4a429f07509a994381262ea70581a89, type: 3}

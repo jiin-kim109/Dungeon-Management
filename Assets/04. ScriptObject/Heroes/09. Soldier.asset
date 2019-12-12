@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 09. Soldier
+  m_EditorClassIdentifier: 
+  id: 09
+  hp: 45
+  damage: 20
+  moveSpeed: 1.45
+  goldGivenMult: 2.65
+  sprite: {fileID: 21300008, guid: 3ab987ae9b810cc4b85d12c250a54bd5, type: 3}
+  sprite_hit: {fileID: 21300006, guid: 410d82bd2ff072641bda0f10cfa0f8cb, type: 3}
+  sprite_dead: {fileID: 21300014, guid: 677709a213b3d72448967cd859b3d221, type: 3}

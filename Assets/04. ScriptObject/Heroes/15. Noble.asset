@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 15. Noble
+  m_EditorClassIdentifier: 
+  id: 15
+  hp: 130
+  damage: 105
+  moveSpeed: 1.7
+  goldGivenMult: 5.5
+  sprite: {fileID: 21300008, guid: 4a44c21c850533a46a5beaba23b7bf23, type: 3}
+  sprite_hit: {fileID: 21300006, guid: 8bb49c818406a17468651d178a6a9684, type: 3}
+  sprite_dead: {fileID: 21300014, guid: df72f9366dc97a244800c76b2b025e01, type: 3}

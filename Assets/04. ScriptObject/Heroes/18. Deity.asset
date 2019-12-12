@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39589493136acdd41932039b19b08791, type: 3}
+  m_Name: 18. Deity
+  m_EditorClassIdentifier: 
+  id: 18
+  hp: 400
+  damage: 285
+  moveSpeed: 1.8
+  goldGivenMult: 8
+  sprite: {fileID: 21300008, guid: a9245d01f62db4248ad8f73990658787, type: 3}
+  sprite_hit: {fileID: 21300008, guid: 03a71de40af0e6b46a44da77045e5cee, type: 3}
+  sprite_dead: {fileID: 21300014, guid: 286aa35a5dd27ee47a80934683d72191, type: 3}

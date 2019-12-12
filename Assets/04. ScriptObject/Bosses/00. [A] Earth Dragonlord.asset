@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de141884428cfc346b4d6dacc68e31c7, type: 3}
+  m_Name: 00. [A] Earth Dragonlord
+  m_EditorClassIdentifier: 
+  id: 00
+  sprite: {fileID: 21300000, guid: a06d5757c06ba784d9d649d46e0ad366, type: 3}
+  hp: 420
+  damage: 45
+  spellName: earthStrike
+  spell_offset_x: 0
+  spell_offset_y: 0.1
+  damageRateToSpell: 55
+  spellCooltime: 1.3
+  damageRadiusScale: 1
