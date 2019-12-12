@@ -1,4 +1,4 @@
-Play Store Link:
+Google Play Store:
 ===
 https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagement
 
