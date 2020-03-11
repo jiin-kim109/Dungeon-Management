@@ -4,11 +4,18 @@ https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagemen
   
 Contents
 ===
-The heroes will soon arrive!  
+A thrilling defense game with your custom built dungeons!
 
-Be the Dungeon Master to fight against the enemies and protect your dungeon!  
-Collect higher rank units, upgrade magics and set up boss monster.
-You can also compete with others for a higher score.
+Description:
+
+Heroes will soon arrive!  
+Be the Dungeon Master and fight against upcoming enemies.
+
+- Fill your dungeons with unique monsters and bosses!
+  
+- Upgrade abilities and magics!
+
+- Compete with other playes for high score!
 
 Version
 ===
