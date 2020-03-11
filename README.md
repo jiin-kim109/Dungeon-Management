@@ -1,3 +1,7 @@
+![alt text](https://lh3.googleusercontent.com/cK-tABOtZrrfzX5WqDssQh1AjjnuteRAUVtBFk13KHuEPTDU0ifTsn8CM71FoQhenAo2=w1536-h754-rw)  
+  
+Dungeon Management
+===
 This game is published on Google Play Store!
 https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagement
   
@@ -15,10 +19,12 @@ Be the Dungeon Master and fight against upcoming enemies.
 
 - Compete with other playes for high score!
 
-===Resources were obtained from
-Unity https://forum.unity.com/
-OpenGameArt https://opengameart.org/
-
+Credits
+===
+Unity Forum - all helps on development!
+OpenGameArt - pictures, VFX, tileset
+ぴぽや - charset, graphics, VFX
+Rド - charset
 
 Version
 ===
