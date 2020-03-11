@@ -1,5 +1,5 @@
-![alt text](https://lh3.googleusercontent.com/cK-tABOtZrrfzX5WqDssQh1AjjnuteRAUVtBFk13KHuEPTDU0ifTsn8CM71FoQhenAo2=w1536-h754-rw | width=150)
-![alt text](https://lh3.googleusercontent.com/WJgd6eM9hQGLpBfASymWdVrpyhEIi9vF_ExwXB0SRYYdkD1pF6BUk9INk4v0OiIdbQ=w1536-h754-rw | width=150)  
+![alt text](https://lh3.googleusercontent.com/cK-tABOtZrrfzX5WqDssQh1AjjnuteRAUVtBFk13KHuEPTDU0ifTsn8CM71FoQhenAo2=w1536-h754-rw)
+![alt text](https://lh3.googleusercontent.com/WJgd6eM9hQGLpBfASymWdVrpyhEIi9vF_ExwXB0SRYYdkD1pF6BUk9INk4v0OiIdbQ=w1536-h754-rw)  
   
 Dungeon Management
 ===
