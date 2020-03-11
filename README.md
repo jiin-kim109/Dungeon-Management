@@ -2,7 +2,7 @@
   
 Dungeon Management
 ===
-Download on Google Play Store!!
+Download on Google Play Store!!   
 https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagement
   
 A thrilling, classic, pixel art defense game with your custom dungeons!  
