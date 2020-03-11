@@ -1,3 +1,6 @@
+<img src="https://lh3.googleusercontent.com/cK-tABOtZrrfzX5WqDssQh1AjjnuteRAUVtBFk13KHuEPTDU0ifTsn8CM71FoQhenAo2=w1536-h754-rw" width="50">
+<img src="https://lh3.googleusercontent.com/WJgd6eM9hQGLpBfASymWdVrpyhEIi9vF_ExwXB0SRYYdkD1pF6BUk9INk4v0OiIdbQ=w1536-h754-rw" width="50">  
+  
 Dungeon Management
 ===
 This game is published on Google Play Store!
@@ -16,11 +19,6 @@ Be the Dungeon Master and fight against upcoming enemies.
 - Upgrade abilities and magics!
 
 - Compete with other playes for high score!
-  
-ScreenShots
-===
-![alt text](https://lh3.googleusercontent.com/cK-tABOtZrrfzX5WqDssQh1AjjnuteRAUVtBFk13KHuEPTDU0ifTsn8CM71FoQhenAo2=w1536-h754-rw)
-![alt text](https://lh3.googleusercontent.com/WJgd6eM9hQGLpBfASymWdVrpyhEIi9vF_ExwXB0SRYYdkD1pF6BUk9INk4v0OiIdbQ=w1536-h754-rw)  
 
 Credits
 ===
