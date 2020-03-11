@@ -2,12 +2,14 @@
   
 Dungeon Management
 ===
+A thrilling, classic, pixel art defense game with your custom dungeons!    
+  
 Download on Google Play Store!!   
 https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagement
   
-A thrilling, classic, pixel art defense game with your custom dungeons!  
   
-  
+Description
+===
 ○Game Description
 Heroes will soon arrive!  
 Be the Dungeon Master and fight against upcoming enemies.
