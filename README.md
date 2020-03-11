@@ -22,10 +22,10 @@ Be the Dungeon Master and fight against upcoming enemies.
 
 Credits
 ===
-Unity Forum - all helps on development!
-OpenGameArt - pictures, VFX, tileset
-ぴぽや - charset, graphics, VFX
-Rド - charset
+Unity Forum - all helps on development!  
+OpenGameArt - pictures, VFX, tileset  
+ぴぽや - charset, graphics, VFX  
+Rド - charset  
 
 Version
 ===
