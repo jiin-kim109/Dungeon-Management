@@ -15,8 +15,7 @@ Be the Dungeon Master and fight against upcoming enemies.
 
 - Compete with other playes for high score!
 
-Resources were obtained from
-==
+===Resources were obtained from
 Unity https://forum.unity.com/
 OpenGameArt https://opengameart.org/
 
