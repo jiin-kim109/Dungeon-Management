@@ -4,7 +4,7 @@ https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagemen
   
 Contents
 ===
-A thrilling defense game with your custom built dungeons!
+A thrilling, classic, pixel art defense game with your custom dungeons!
 
 Description:
 
