@@ -2,7 +2,7 @@
   
 Dungeon Management
 ===
-Download on Google Play Store!!  
+Download on <p style="color:blue">Google Play Store!!</p>  
 https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagement
   
 Content
