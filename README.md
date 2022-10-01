@@ -10,7 +10,7 @@ https://play.google.com/store/apps/details?id=com.DomieProducts.DungeonManagemen
   
 Description
 ===
-○Game Description
+## Game Description ##  
 The heroes will soon arrive!  
 Be the Dungeon Master and fight against with the intruders.
 
